@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Pointsharp AB.
-- 🌱 I’m currently learning .NET Aspire.
+- 🌱 I’m currently learning everything again and again.
 - 👯 I’m looking to collaborate on anything in the cybersecurity sector.
 - 🤔 I’m looking for help with my skateboarding ollie trick.
 - 💬 Ask me about anything.
